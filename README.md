@@ -301,6 +301,7 @@ cagirilir, yeni deger dogrulanir, dosya geri yuklenir.
 
 ```bash
 # 1. Bagimliliklari yukle
+cd Birbirine-Bagimli-Arac-Kullanimi
 pip install -r requirements.txt
 
 # 2. Anthropic API anahtarini ayarla
