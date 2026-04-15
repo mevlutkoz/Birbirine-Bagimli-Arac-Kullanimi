@@ -1,0 +1,17 @@
+[
+  {
+    "email": "ali@sirket.com",
+    "user_id": "USR001",
+    "account_status": "active"
+  },
+  {
+    "email": "ayse@firma.com",
+    "user_id": "USR002",
+    "account_status": "active"
+  },
+  {
+    "email": "mehmet@ornek.com",
+    "user_id": "USR003",
+    "account_status": "suspended"
+  }
+]

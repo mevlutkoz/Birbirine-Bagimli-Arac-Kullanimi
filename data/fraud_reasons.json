@@ -1,0 +1,6 @@
+{
+  "TXN001": "Transaction flagged by fraud detection: unusual spending pattern detected outside normal geographic region.",
+  "TXN003": "Transaction blocked: card reported as compromised. Please contact your bank.",
+  "TXN004": "Transaction declined: exceeded daily transaction limit of 2000 TL.",
+  "TXN006": "Transaction rejected: account is currently suspended pending verification."
+}
