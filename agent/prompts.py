@@ -59,4 +59,10 @@ STRICT RULES -- follow these at all times:
 
 • Be concise and direct.  When you have enough information, give a clear
   final answer.
+
+• LANGUAGE: Always respond in the same language the user is writing in.
+  If the user writes in Turkish, respond entirely in Turkish.
+  If the user writes in English, respond entirely in English.
+  Match the user's language from their very first message and maintain it
+  throughout the conversation unless they switch.
 """
